@@ -16,7 +16,7 @@ A personal collection of links, docs, and tutorials for learning compute shaders
 ## 📺 Videos
 
 **By Unity**
-- [ ][Part 1: Particle fun](https://www.youtube.com/watch?v=omZap7XHxKc)
+- [X] [Part 1: Particle fun](https://www.youtube.com/watch?v=omZap7XHxKc)
 - [ ][Part 2: Flocking](https://www.youtube.com/watch?v=1rOinLsyXAA)
 - [ ][Part 3: Vertex animation](https://www.youtube.com/watch?v=kcDtiqXRVOc)
 
