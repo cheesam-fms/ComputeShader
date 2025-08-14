@@ -17,12 +17,12 @@ A personal collection of links, docs, and tutorials for learning compute shaders
 
 **By Unity**
 - [X] [Part 1: Particle fun](https://www.youtube.com/watch?v=omZap7XHxKc)
-- [ ][Part 2: Flocking](https://www.youtube.com/watch?v=1rOinLsyXAA)
-- [ ][Part 3: Vertex animation](https://www.youtube.com/watch?v=kcDtiqXRVOc)
+- [ ] [Part 2: Flocking](https://www.youtube.com/watch?v=1rOinLsyXAA)
+- [ ] [Part 3: Vertex animation](https://www.youtube.com/watch?v=kcDtiqXRVOc)
 
 **By Gottfried Eibner**
-- [ ][Compute Shaders in Unity (Part 1)](https://www.youtube.com/watch?v=CSiPjJI2c94)
-- [ ][Compute Shaders in Unity (Part 2)](https://www.youtube.com/watch?v=7AYqxSz635g)
+- [ ] [Compute Shaders in Unity (Part 1)](https://www.youtube.com/watch?v=CSiPjJI2c94)
+- [ ] [Compute Shaders in Unity (Part 2)](https://www.youtube.com/watch?v=7AYqxSz635g)
 
 ---
 
