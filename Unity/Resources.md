@@ -55,3 +55,4 @@ A personal collection of links, docs, and tutorials for learning compute shaders
 
 - [Shaders 101 - Intro to Shaders](https://www.youtube.com/watch?v=T-HXmQAMhG0)
 - [Introduction to shaders: Learn the basics!](https://www.youtube.com/watch?v=3mfvZ-mdtZQ)
+- [Create popular shaders and visual effects with the Universal Render Pipeline (Unity 6 edition)](https://unity.com/resources/create-shaders-visual-effects-urp-unity-6)
