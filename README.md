@@ -2,6 +2,8 @@
 
 A personal repository for **learning, experimenting, and documenting** everything related to **compute shaders** — from beginner concepts to advanced GPU parallelism.
 
+[**Quick Resource Link**](https://github.com/cheesam-fms/ComputeShaderLearningHub/blob/main/Unity/Resources.md)
+
 ---
 
 ## 📚 Purpose
